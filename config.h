@@ -4,7 +4,7 @@
 #pragma once
 
 // Good defaults for home row modifiers
-#define TAPPING_TERM 230
+#define TAPPING_TERM 200
 #define IGNORE_MOD_TAP_INTERRUPT
 #define DYNAMIC_KEYMAP_LAYER_COUNT 5
 #define LAYER_STATE_8BIT
@@ -15,3 +15,6 @@
 #define VIAL_COMBO_ENTRIES 10
 #define COMBO_TERM 50
 #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+#undef LOCKING_SUPPORT_ENABLE
+#undef LOCKING_RESYNC_ENABLE
+#define NO_MUSIC_MODE
