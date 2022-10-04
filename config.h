@@ -4,8 +4,9 @@
 #pragma once
 
 // Good defaults for home row modifiers
-#define TAPPING_TERM 200
+#define TAPPING_TERM 190
 #define IGNORE_MOD_TAP_INTERRUPT
+#define TAPPING_FORCE_HOLD
 #define PERMISSIVE_HOLD
 #define DYNAMIC_KEYMAP_LAYER_COUNT 5
 #define LAYER_STATE_8BIT

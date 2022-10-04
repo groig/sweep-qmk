@@ -17,7 +17,7 @@
       [
         "RALT_T(KC_H)",
         "RSFT_T(KC_J)",
-        "RGUI_T(KC_K)",
+        "RGUI(KC_K)",
         "LALT_T(KC_L)",
         "RCTL_T(KC_QUOTE)"
       ],
